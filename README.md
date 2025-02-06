@@ -1,16 +1,30 @@
-## Hi there 👋
+<p style="font-family: monospace; font-size: 16px;">
+       
+                                                                __           __                 
+                                                ____  ___  ____/ /________  / /___  ____  ____ _
+                                               / __ \/ _ \/ __  / ___/ __ \/ / __ \/ __ \/ __ `/
+                                              / /_/ /  __/ /_/ / /  / /_/ / / / / / /_/ / /_/ / 
+                                             / .___/\___/\__,_/_/   \____/_/_/ /_/\____/\__, /  
+                                            /_/                                        /____/   
 
-<!--
-**pedrolnog/pedrolnog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  </p>
+                                      
+   <p style="font-family: monospace; font-size: 16px;">
 
-Here are some ideas to get you started:
+          > 18y
+          > estudante
+          > engenharia da computação @ univasf
+          > aprendendo python, java & c
+    
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/pedrolnog/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://discordapp.com/users/231839328182075393">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  
+</div>
